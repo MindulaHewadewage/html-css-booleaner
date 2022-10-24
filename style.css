@@ -1,5 +1,5 @@
 .container{
-    width: 75%;
+    width: 70%;
     margin: auto;
 }
 
@@ -12,16 +12,22 @@
     color: white;
     background-size: 300px; 
     position: relative;
+    
+}
+
+.logo{
+    width: 200px;
+    position: absolute;
+    top: 30%;
+    left: 0;
 }
 
 
-#booleaner{
-    font-size: 40px;
-}
 
 
 #dati-autore{
     color:grey;
+    line-height: 0.8;
 }
 
 a{
@@ -30,4 +36,16 @@ a{
 
 #data{
     font-size:0.6em;
+}
+
+.descrizione{
+    line-height: 0.2;
+}
+
+.lorem{
+    margin-top: 30px;
+}
+
+.elenco{
+    margin: 0;
 }

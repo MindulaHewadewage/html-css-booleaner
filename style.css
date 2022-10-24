@@ -87,3 +87,16 @@ thead{
 h3{
     color: grey;
 }
+
+.monitor, .graph{
+    position: relative;
+}
+
+.in-text{
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+}

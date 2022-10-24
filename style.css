@@ -32,6 +32,7 @@
 
 a{
     text-decoration: none;
+    color: dodgerblue;
 }
 
 #data{
@@ -73,12 +74,9 @@ thead{
     background-color: cyan;
 }
 
-}
-
 .prima-riga, .seconda-riga{
     width: 25%;
 }
-
 
 .terza-riga{
     width: 50%

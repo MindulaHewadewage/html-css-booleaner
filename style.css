@@ -3,6 +3,7 @@
     margin: auto;
 }
 
+
 .imm-logo{
     background-image: url('img/pattern.png');
     width: 100%;
@@ -16,4 +17,17 @@
 
 #booleaner{
     font-size: 40px;
+}
+
+
+#dati-autore{
+    color:grey;
+}
+
+a{
+    text-decoration: none;
+}
+
+#data{
+    font-size:0.6em;
 }

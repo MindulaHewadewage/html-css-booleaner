@@ -46,6 +46,40 @@ a{
     margin-top: 30px;
 }
 
+.colored-text{
+    background-color: yellow;
+}
+
 .elenco{
+    padding: 10px;
     margin: 0;
+}
+
+table{
+    width: 100%;
+    text-align: left;
+    margin: 0;
+    border-collapse: collapse;
+    
+}
+
+thead{
+    background-color: dodgerblue;
+    color:white
+
+}
+
+.lightblue{
+    background-color: cyan;
+}
+
+}
+
+.prima-riga, .seconda-riga{
+    width: 25%;
+}
+
+
+.terza-riga{
+    width: 50%
 }
